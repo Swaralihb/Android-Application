@@ -12,8 +12,6 @@
     <string name="login_failed">"Login failed"</string>
     <string name="title_activity_login">Sign in</string>
 
-    <string name="map_key" translatable="false">AIzaSyDzbrhprVQY5-mDdqz0KjyTBAzCv-8f_4Y</string>
-
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
